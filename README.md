@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-🚗 Rent-A-Car is a sample application that showcases the implementation of Jetpack Compose and Navigation to create a modern and intuitive car rental experience.
+Have your water bottle drawn in Canvas using Kotlin and Jetpack Compose, where you can track your water consumption.
 </p>
 
 ## Tech stack & Open-source libraries
